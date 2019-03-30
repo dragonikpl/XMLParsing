@@ -8,6 +8,9 @@
 
 import Foundation
 
+let kCFBooleanTrue = NSNumber(booleanLiteral: true)
+let kCFBooleanFalse = NSNumber(booleanLiteral: false)
+
 //===----------------------------------------------------------------------===//
 // XML Decoder
 //===----------------------------------------------------------------------===//
